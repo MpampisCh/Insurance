@@ -5,7 +5,7 @@ class ConnectionDB {
     private static final String DB_CONNECTION = "jdbc:mysql://localhost:3306/insurance?useUnicode=true"
             + "&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
     private static final String DB_USER = "root";
-    private static final String DB_PASSWORD = "admin";
+    private static final String DB_PASSWORD = "vevae0bu";
     private static Connection connection;
 
     public static Connection getDBConnection() throws Exception {
