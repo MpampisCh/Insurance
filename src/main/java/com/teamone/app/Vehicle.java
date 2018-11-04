@@ -1,4 +1,4 @@
-import java.util.Date;
+package com.teamone.app;
 
 public class Vehicle {
 

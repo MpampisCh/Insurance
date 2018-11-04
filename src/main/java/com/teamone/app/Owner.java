@@ -1,3 +1,5 @@
+package com.teamone.app;
+
 public class Owner {
 
     private int id = -1;
